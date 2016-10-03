@@ -2,6 +2,8 @@
 from time import sleep
 import sys
 
+# extra comment
+
 # part 1 asking who the player is
 hp=5 # this sets hit points
 exp=0 # this sets experience points
