@@ -2,7 +2,10 @@
 from time import sleep
 import sys
 
-# extra comment
+# TODO :
+# Turn the repeating sections of code into functions
+# Create a main function to run the program
+# Add randomisation so that the program is not the same every time
 
 # part 1 asking who the player is
 hp=5 # this sets hit points
