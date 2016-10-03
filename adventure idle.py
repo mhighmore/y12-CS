@@ -6,6 +6,7 @@ import sys
 # Turn the repeating sections of code into functions
 # Create a main function to run the program
 # Add randomisation so that the program is not the same every time
+# use a loop to make the elements of the game repeat until a condition is met
 
 # part 1 asking who the player is
 hp=5 # this sets hit points
